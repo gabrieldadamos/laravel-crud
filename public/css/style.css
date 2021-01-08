@@ -1,0 +1,28 @@
+body {
+    background: #5a38c1;
+}
+
+.clientes h1,
+.cadastro h1 {
+    margin: 2rem 0;
+    color: #FFF
+}
+
+.clientes .card {
+    padding-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.clientes .card img {
+    margin: 0 auto;
+}
+
+.loading {
+    z-index: 999;
+}
+
+footer p {
+    color: #fff;
+    margin-top: 30vh;
+    text-align: center;
+}
